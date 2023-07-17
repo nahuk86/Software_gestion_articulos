@@ -1,0 +1,15 @@
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\bin\Debug\net7.0\Abstractions.deps.json
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\bin\Debug\net7.0\Abstractions.dll
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\bin\Debug\net7.0\Abstractions.pdb
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\obj\Debug\net7.0\Abstractions.csproj.AssemblyReference.cache
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\obj\Debug\net7.0\Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\obj\Debug\net7.0\Abstractions.AssemblyInfoInputs.cache
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\obj\Debug\net7.0\Abstractions.AssemblyInfo.cs
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\obj\Debug\net7.0\Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\obj\Debug\net7.0\Abstractions.dll
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\obj\Debug\net7.0\refint\Abstractions.dll
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\obj\Debug\net7.0\Abstractions.pdb
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\obj\Debug\net7.0\ref\Abstractions.dll
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\bin\Debug\net7.0\Domain.dll
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\bin\Debug\net7.0\Domain.pdb
+C:\Users\nahue\source\repos\Desarrollo Web V4\Abstractions\obj\Debug\net7.0\Abstractions.csproj.CopyComplete

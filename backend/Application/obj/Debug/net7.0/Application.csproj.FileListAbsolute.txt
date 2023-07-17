@@ -1,0 +1,12 @@
+C:\Users\nahue\source\repos\Desarrollo Web V4\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\nahue\source\repos\Desarrollo Web V4\Application\bin\Debug\net7.0\Application.dll
+C:\Users\nahue\source\repos\Desarrollo Web V4\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\nahue\source\repos\Desarrollo Web V4\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\nahue\source\repos\Desarrollo Web V4\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahue\source\repos\Desarrollo Web V4\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\nahue\source\repos\Desarrollo Web V4\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\nahue\source\repos\Desarrollo Web V4\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\Desarrollo Web V4\Application\obj\Debug\net7.0\Application.dll
+C:\Users\nahue\source\repos\Desarrollo Web V4\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\nahue\source\repos\Desarrollo Web V4\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\nahue\source\repos\Desarrollo Web V4\Application\obj\Debug\net7.0\ref\Application.dll
