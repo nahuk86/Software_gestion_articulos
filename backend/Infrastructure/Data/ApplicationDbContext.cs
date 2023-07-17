@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using Domain.Models;
+using Domain.Entity;
 
 namespace Infrastructure.Data;
 public class ApplicationDbContext : DbContext
@@ -13,9 +13,8 @@ public class ApplicationDbContext : DbContext
     {
     }
 
-    public DbSet<Domain.Models.Categoria> Categorias { get; set; }
-    public DbSet<Domain.Models.Articulo> Articulos { get; set; }
-    public DbSet<Domain.Models.Usuario> Usuarios { get; set; }
+    public DbSet<Categoria> Categorias { get; set; }
+    public DbSet<Articulo> Articulos { get; set; }
 
 
 }

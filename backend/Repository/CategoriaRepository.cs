@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Abstractions.IRepository;
-using Domain.Models;
+using Domain.Entity;
 using Infrastructure.Data;
 
 namespace Repository;

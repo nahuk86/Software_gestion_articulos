@@ -18,7 +18,11 @@ builder.Services.AddDbContext<Infrastructure.Data.ApplicationDbContext>(options 
 
 builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>();
 builder.Services.AddScoped<IArticuloRepository, ArticuloRepository>();
-builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
+
+builder.Services.Configure<Abstractions.AppSetings>(builder.Configuration.GetSection("AppSettings"));
+
+
 
 builder.Services.AddCors(options => options.AddPolicy("AllowWebApp",
     builder => builder.AllowAnyOrigin()

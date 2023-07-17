@@ -1,7 +1,7 @@
 using Abstractions.IRepository;
 using API.Dtos;
 using AutoMapper;
-using Domain.Models;
+using Domain.Entity;
 using Infrastructure.Data;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

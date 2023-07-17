@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Domain.Models;
 using API.Dtos;
+using Domain.Entity;
 
 namespace API.Mappers;
 
@@ -11,8 +12,6 @@ public class Mappers : Profile
         CreateMap<Categoria, CategoriaDto>().ReverseMap();
         CreateMap<Categoria, CrearCategoriaDto>().ReverseMap();
         CreateMap<Articulo, ArticuloDto>().ReverseMap();
-        CreateMap<Usuario, UsuarioDto>().ReverseMap();
-        CreateMap<Usuario, UsuarioRegistroDto>().ReverseMap();
 
 
     }

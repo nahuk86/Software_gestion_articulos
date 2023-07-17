@@ -1,9 +1,9 @@
 ﻿using API.Dtos;
 using AutoMapper;
 using API.Mappers;
-using Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 using Abstractions.IRepository;
+using Domain.Entity;
 
 namespace API.Controllers;
 
